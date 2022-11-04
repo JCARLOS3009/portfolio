@@ -54,7 +54,7 @@ const about = {
   imageLink: require("../editable-stuff/hashirshoaeb.png"),
   imageSize: 375,
   message:
-    "My name is Hashir Shoaib. I’m a graduate of 2020 from National University of Sciences and Technology at Islamabad with a degree in Computer Engineering. I'm most passionate about giving back to the community, and my goal is to pursue this passion within the field of software engineering. In my free time I like working on open source projects.",
+    "Formado em Engenharia Civil pela Universidade Salvador. Possuo experiência com softwares de engenharia, gestão, planejamento e orçamentos, como a plataforma BIM (para área de construção civil), IDEs, servidores de internet e ferramentas de banco de dados. Tenho uma boa aptidão para buscar soluções práticas e racionais para problemas de engenharia, programação e gestão de recursos, além da capacidade de interligar conhecimentos diversos.",
   resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
 };
 
